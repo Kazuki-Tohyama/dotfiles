@@ -1,0 +1,20 @@
+add_newline = false
+
+[git_branch]
+symbol = "🌱"
+
+[git_status]
+conflicted = " conflicted "
+ahead = " ahead "
+behind = " behind "
+diverged = " diverged "
+untracked = " untracked "
+stashed = " stashed "
+modified = " modified "
+staged.value = "++"
+staged.style = "green"
+staged_count.enabled = true
+staged_count.style = "green"
+renamed = " renamed "
+deleted = " deleted "
+
