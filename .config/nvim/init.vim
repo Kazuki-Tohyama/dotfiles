@@ -12,6 +12,8 @@ set smartindent
 set title
 " 行番号の表示
 set number
+" yankした文字をクリップボードにコピー
+set clipboard+=unnamed
 
 if &compatible
   set nocompatible
